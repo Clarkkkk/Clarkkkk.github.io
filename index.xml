@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clark&#39;s Blogs</title>
+    <link>http://Clarkkkk.github.io/</link>
+    <description>Recent content on Clark&#39;s Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 09 Aug 2020 22:43:56 +0800</lastBuildDate>
+    
+	<atom:link href="http://Clarkkkk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unicode和JavaScript</title>
+      <link>http://Clarkkkk.github.io/post/unicode%E5%92%8Cjavascript/</link>
+      <pubDate>Sun, 09 Aug 2020 22:43:56 +0800</pubDate>
+      
+      <guid>http://Clarkkkk.github.io/post/unicode%E5%92%8Cjavascript/</guid>
+      <description>本文译自 Speaking JavaScript 的第 24 章，原文地址，禁止转载。 本章简要介绍了Unicode和JavaScript处理Unicode的方式。 Unicode历史 Un</description>
+    </item>
+    
+  </channel>
+</rss>

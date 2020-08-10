@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://Clarkkkk.github.io/sitemap.xml
